@@ -13,6 +13,7 @@ Source0: http://users.musicbrainz.org/~matt/%{name}-%{version}.tar.gz
 License: LGPL 
 Group: System/Libraries
 Url: http://musicbrainz.org/doc/libdiscid
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 libdiscid is a library for creating MusicBrainz DiscIDs from audio CDs.
