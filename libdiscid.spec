@@ -1,6 +1,6 @@
 %define name libdiscid
 %define version 0.2.1
-%define release %mkrel 1
+%define release %mkrel 2
 %define major 1
 %define libname %mklibname discid %major
 %define develname %mklibname -d discid
