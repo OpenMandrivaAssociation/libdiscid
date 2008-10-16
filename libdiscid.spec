@@ -1,7 +1,7 @@
 %define name libdiscid
-%define version 0.2.1
-%define release %mkrel 2
-%define major 1
+%define version 0.2.2
+%define release %mkrel 1
+%define major 0
 %define libname %mklibname discid %major
 %define develname %mklibname -d discid
 
@@ -10,7 +10,7 @@ Name: %{name}
 Version: %{version}
 Release: %{release}
 Source0: http://users.musicbrainz.org/~matt/%{name}-%{version}.tar.gz
-License: LGPL 
+License: LGPLv2+
 Group: System/Libraries
 Url: http://musicbrainz.org/doc/libdiscid
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
