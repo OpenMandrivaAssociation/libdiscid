@@ -4,12 +4,12 @@
 
 Summary:	A Library for creating MusicBrainz DiscIDs
 Name:		libdiscid
-Version:	0.2.2
-Release:	15
+Version:	0.6.2
+Release:	1
 License:	LGPLv2+
 Group:		System/Libraries
 Url:		http://musicbrainz.org/doc/libdiscid
-Source0:	http://users.musicbrainz.org/~matt/%{name}-%{version}.tar.gz
+Source0:	http://ftp.musicbrainz.org/pub/musicbrainz/libdiscid/libdiscid-%{version}.tar.gz
 
 %description
 libdiscid is a library for creating MusicBrainz DiscIDs from audio CDs.
