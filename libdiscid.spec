@@ -4,8 +4,8 @@
 
 Summary:	A Library for creating MusicBrainz DiscIDs
 Name:		libdiscid
-Version:	0.6.2
-Release:	3
+Version:	0.6.4
+Release:	1
 License:	LGPLv2+
 Group:		System/Libraries
 Url:		http://musicbrainz.org/doc/libdiscid
