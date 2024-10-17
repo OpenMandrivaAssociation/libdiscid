@@ -8,7 +8,7 @@ Version:	0.6.4
 Release:	1
 License:	LGPLv2+
 Group:		System/Libraries
-Url:		http://musicbrainz.org/doc/libdiscid
+Url:		https://musicbrainz.org/doc/libdiscid
 Source0:	http://ftp.musicbrainz.org/pub/musicbrainz/libdiscid/libdiscid-%{version}.tar.gz
 
 %description
