@@ -11,6 +11,11 @@ Group:		System/Libraries
 Url:		https://musicbrainz.org/doc/libdiscid
 Source0:	http://ftp.musicbrainz.org/pub/musicbrainz/libdiscid/libdiscid-%{version}.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 libdiscid is a library for creating MusicBrainz DiscIDs from audio CDs.
 It reads a CD's table of contents (TOC) and generates an identifier which
